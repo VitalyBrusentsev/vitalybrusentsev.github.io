@@ -6,11 +6,11 @@
 
 A presentation for Sydney F# Meetup.
 
-[Example code](https://vitalybrusentsev.github.io/presentations/ES-functional/Example.fsx)
+[Example code](https://gist.github.com/VitalyBrusentsev/10b6d3e0a1adbfcd0db589ad955a8c0b)
 
 ### ElmishSpreadsheets
 
-An extension of a "Excel 360 in 1 hour" example by Tomas Petrisek.
+An extension of a "Excel 360 in 1 hour" example by Tomas Petricek.
 Buit with:
 - Fable
 - Elmish
